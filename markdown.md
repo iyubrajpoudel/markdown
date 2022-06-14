@@ -102,10 +102,10 @@ touch temp.txt
 <!-- This will show on github -->
 
 - [x] Task-1
-- [] Task-1
+- [ ] Task-1
 - [x] Task-1
-- [] Task-1
-- [] Task-1
+- [ ] Task-1
+- [ ] Task-1
 
 
 
